@@ -222,7 +222,7 @@
     float: left;
     left: 64%;
 }
-@media (min-height: 2120px){
+@media (min-height: 1200px){
     .Titulo{
         height: 12em;
         line-height: 2;
@@ -302,7 +302,7 @@
     }
 
 }
-@media (min-height: 2120px){
+@media (min-height: 1200px){
     .icon-responsive{
         top: 10px;
     }
