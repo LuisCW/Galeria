@@ -249,7 +249,7 @@
         left: 58%
     }
 }
-@media (max-width: 870px){
+@media (max-width: 980px){
     .icon{
         display: none;
     }
