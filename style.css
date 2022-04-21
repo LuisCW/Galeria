@@ -222,6 +222,21 @@
     float: left;
     left: 64%;
 }
+@media (min-height: 2120px){
+    .Titulo{
+        height: 12em;
+        line-height: 2;
+    }
+    .Central{
+        height: 6em;
+    }
+    .Central>input{
+        top: 35%;
+    }
+    .Central>button{
+        top: 35%;
+    }
+}
 @media (max-width: 1400px){
     .Central>input{
         width: 50%;
